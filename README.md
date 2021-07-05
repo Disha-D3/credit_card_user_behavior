@@ -1,6 +1,7 @@
 # credit_card_user_behavior
 
 Business Goal: To understand and analyse credit card user behavior to target different business objectives
+
 Methods used:
 1. Data cleaning
 2. EDA
