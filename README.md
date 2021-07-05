@@ -2,15 +2,15 @@
 
 Business Goal: To understand and analyse credit card user behavior to target different business objectives
 Methods used:
-1.Data cleaning
-2.EDA
-3.Data preprocessing and normalization
-4.K means clustering technique
-5.Best fit 'K' value selection by Elbow method and silhouette score
-6.Building clustering model with best fit k value
-7.Cluster interpretation with distribution plots
-8.PCA dimension reduction and plot visulization  in 2 dimensions
-9.Conclusion:Market strategy study to map cluster characteristics to business objectives
+1. Data cleaning
+2. EDA
+3. Data preprocessing and normalization
+4. K means clustering technique
+5. Best fit 'K' value selection by Elbow method and silhouette score
+6. Building clustering model with best fit k value
+7. Cluster interpretation with distribution plots
+8. PCA dimension reduction and plot visulization  in 2 dimensions
+9. Conclusion:Market strategy study to map cluster characteristics to business objectives
 
 Cluster Characteristics and potential business objectives:
 
